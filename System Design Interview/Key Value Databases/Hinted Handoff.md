@@ -1,0 +1,1 @@
+The server which was handling the requests meant to be sent to the down server will push all the data it received during this time when the downed server is back online.

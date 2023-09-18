@@ -1,0 +1,2 @@
+Detect malicious content ([[Spider Traps]]) and stuff on the internet
+Detect Redundant content: As discussed previously, nearly 30% of the web pages are duplicates. Hashes or checksums help to detect duplication 

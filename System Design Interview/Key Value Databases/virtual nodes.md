@@ -1,0 +1,1 @@
+If we have N servers on a hash table and we duplicate them k times. we get k * N nodes. for example for the ith node we would have i1,i2,i3.  this is used in [[Consistent Hashing]] to ensure that our data is evenly distributed across all of our nodes

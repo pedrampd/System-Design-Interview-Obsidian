@@ -1,0 +1,1 @@
+Seed URLs are just a starting point for our crawlers to start their crawl and find more web pages. There is no best way to choose a seed URL.
