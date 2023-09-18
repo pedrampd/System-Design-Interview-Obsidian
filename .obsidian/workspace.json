@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "6bf949e1f58078e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "91dabbf09947ee13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1aec1de9d94a543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools Concepts and Technologies to read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd873c75e0350c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94234370942fdc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6c9500efdc122e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af07211b3eaac29a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e63e9a8269967f37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc1fd9022410ea8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "45e1bcc0fec36a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0258cefccb88d289",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools Concepts and Technologies to read.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd543886133706f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tools Concepts and Technologies to read.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ae6a8d09107a621",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22efd9a90bebcdf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tools Concepts and Technologies to read.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5a6c9500efdc122e",
+  "lastOpenFiles": [
+    "Database/ACID/ACID Atomicity.md",
+    "System Design Interview/Technologies to Read.md",
+    "README.md",
+    "Database",
+    "Database/ACID/ACID Durability.md",
+    "Database/ACID/ACID.md",
+    "ACID/Untitled.md",
+    "Database/ACID/ACID Isolation.md",
+    "Read Commited.md",
+    "Database/ACID/ACID Consistency.md",
+    "Tools Concepts and Technologies to read.md",
+    "Database/ACID",
+    "How Kafka Achieves Exatcly once deliveries.md",
+    "System Design Interview/Push Notification",
+    "System Design Interview/Web Crawler/Web crawler high level design.JPG",
+    "System Design Interview/Web Crawler/Web Crawler High level Design.md",
+    "System Design Interview/Web Crawler/Seed URLs.md",
+    "System Design Interview/Web Crawler/HTML Downloader.md",
+    "System Design Interview/Web Crawler/Content Parser.md",
+    "System Design Interview/Web Crawler/Content is Seen.md",
+    "System Design Interview/URL Shortener/Designing a URL Shortener.md",
+    "System Design Interview/URL Shortener/302 Redirect.md",
+    "System Design Interview/URL Shortener/301 Redirect.md"
+  ]
+}
