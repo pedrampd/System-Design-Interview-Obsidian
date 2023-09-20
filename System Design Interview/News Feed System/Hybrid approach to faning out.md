@@ -1,0 +1,2 @@
+To get the benefits from bot [[Fanout on Read]] and [[Fanout on Write]], we use [[Fanout on Write]] for most of our users (since getting the feed as fast as possible is important to us) and for some celebrities and inactive users we use [[Fanout on Read]] . because when a celebrity creates a posts, it takes a lot of resources to push this post to every one of his followers so we use the pull model ([[Fanout on Read]]).
+

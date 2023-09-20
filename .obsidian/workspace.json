@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools Concepts and Technologies to read.md",
+                "file": "System Design Interview/News Feed System/News Feed.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bef6c53cf0e5db8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools Concepts and Technologies to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools Concepts and Technologies to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tools Concepts and Technologies to read.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,19 +151,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a6c9500efdc122e",
+  "active": "9bef6c53cf0e5db8",
   "lastOpenFiles": [
-    "Database/ACID/ACID Atomicity.md",
     "System Design Interview/Technologies to Read.md",
+    "System Design Interview/News Feed System/Fanout Service.md",
+    "System Design Interview/News Feed System/Fanout.png",
+    "System Design Interview/News Feed System/Hotkey Problem.md",
+    "System Design Interview/News Feed System/Fanout on Write.md",
+    "System Design Interview/News Feed System/Feed Publishing.md",
+    "System Design Interview/News Feed System/News Feed.md",
+    "System Design Interview/News Feed System/Hybrid approach to faning out.md",
+    "System Design Interview/News Feed System/News feed building.md",
+    "System Design Interview/News Feed System/Fanout on Read.md",
+    "System Design Interview/News Feed System/news feed servers.md",
+    "System Design Interview/News Feed System/News feed builder.png",
+    "System Design Interview/News Feed System/news feed publisher.png",
+    "Database/ACID/ACID Isolation.md",
+    "System Design Interview/News Feed System",
+    "Database/ACID/ACID Durability.md",
+    "Database/ACID/ACID Consistency.md",
+    "Database/ACID/ACID Atomicity.md",
+    "Database/ACID/ACID.md",
+    "Tools Concepts and Technologies to read.md",
     "README.md",
     "Database",
-    "Database/ACID/ACID Durability.md",
-    "Database/ACID/ACID.md",
     "ACID/Untitled.md",
-    "Database/ACID/ACID Isolation.md",
     "Read Commited.md",
-    "Database/ACID/ACID Consistency.md",
-    "Tools Concepts and Technologies to read.md",
     "Database/ACID",
     "How Kafka Achieves Exatcly once deliveries.md",
     "System Design Interview/Push Notification",
@@ -167,9 +185,6 @@
     "System Design Interview/Web Crawler/Seed URLs.md",
     "System Design Interview/Web Crawler/HTML Downloader.md",
     "System Design Interview/Web Crawler/Content Parser.md",
-    "System Design Interview/Web Crawler/Content is Seen.md",
-    "System Design Interview/URL Shortener/Designing a URL Shortener.md",
-    "System Design Interview/URL Shortener/302 Redirect.md",
-    "System Design Interview/URL Shortener/301 Redirect.md"
+    "System Design Interview/Web Crawler/Content is Seen.md"
   ]
 }
