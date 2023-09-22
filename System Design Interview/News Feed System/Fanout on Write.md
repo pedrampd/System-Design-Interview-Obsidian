@@ -7,4 +7,3 @@ When a user create a post this post is immediately written on each of their frie
 ### Cons:
 - For inactive users, we waste resources by pushing to their post cache.
 - If a user has many followers, pushing a post to all of them takes a lot of resources and time. This is called the [[Hotkey Problem]]
--

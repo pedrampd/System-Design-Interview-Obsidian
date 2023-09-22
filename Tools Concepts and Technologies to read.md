@@ -7,3 +7,6 @@
 - [ ] [[Event Sourcing]]
 - [ ] [[Distributed Transaction]]
 - [ ] [[How Kafka Achieves Exactly once deliveries]]
+- [ ] [[WebRTC]]
+- [ ] [[CQRS]]
+- [ ] [[Saga Pattern]]

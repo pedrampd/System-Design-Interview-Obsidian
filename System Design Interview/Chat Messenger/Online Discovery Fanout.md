@@ -1,0 +1,2 @@
+First we retrieve the user's friends from a [[Graph DB]] then we create a message queue for each of the user's friends. (A-B, A-C, A-D, ...) and we publish the status of the user's to this message queues. 
+The friends then will pull this status from those queues.![[presence fan out.JPG]]

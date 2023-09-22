@@ -1,0 +1,1 @@
+A lock which blocks write operations in the db

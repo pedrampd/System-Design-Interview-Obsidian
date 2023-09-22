@@ -1,0 +1,1 @@
+Web socket is a persistent and bidirectional connection which starts its life by initiating an http request and some well defined hand shakes. 
